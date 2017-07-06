@@ -1,0 +1,22 @@
+{
+  "name": "tweeterapp",
+  "version": "1.0.0",
+  "description": "calls last 20 tweets",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coreyfurman/liri-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coreyfurman/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/coreyfurman/liri-node-app#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
